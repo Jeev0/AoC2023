@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class AdventOfCode2023Day1Part1 
+public class AOC2023Day1Part1 
 {
     public static void main(String args[]) throws FileNotFoundException
     {
